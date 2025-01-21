@@ -1,0 +1,14 @@
+{
+	"scripts": {
+		"dev": "esrun ./src/index"
+	},
+	"dependencies": {
+		"@ai-sdk/anthropic": "^1.1.0",
+		"ai": "^4.1.0",
+		"dotenv": "^16.4.7",
+		"ts-node-dev": "^2.0.0"
+	},
+	"devDependencies": {
+		"@types/node": "^22.10.7"
+	}
+}
