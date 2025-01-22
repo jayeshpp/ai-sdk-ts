@@ -3,8 +3,10 @@
 		"dev": "esrun ./src/index"
 	},
 	"dependencies": {
-		"@ai-sdk/anthropic": "^1.1.0",
-		"ai": "^4.1.0",
+		"@ai-sdk/anthropic": "^1.1.1",
+		"@ai-sdk/openai": "^1.1.1",
+		"@ai-sdk/provider": "1.0.5",
+		"ai": "^4.1.1",
 		"dotenv": "^16.4.7",
 		"ts-node-dev": "^2.0.0"
 	},
